@@ -1,6 +1,8 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=961DF7&width=435&lines=Welcome+to+my+GitHub+profile!;Hello%2C+my+name+is+Luiza+Souza.)](https://git.io/typing-svg)
 
-<img src="https://github.com/LuSouzak/luizasouzak/blob/main/capa.gif" alt="Pixel Art" align="right" width="350">
+<img src="https://github.com/LuSouzak/luizasouzak/blob/main/capa.gif" alt="Pixel Art" align="right" width="350" >
+
+<br><br><br>
 
 ### Technologies and tools:
 
@@ -15,7 +17,7 @@
 
 ### GitHub Stats
 
-<div align="center" style="display: flex; justify-content: center; padding-top: 40px;">
+<div align="center" style="display: flex; justify-content: center;">
   <a href="https://github.com/LuSouzak">
     <img height="195px" src="https://github-readme-stats.vercel.app/api?username=anacristinaneves&show_icons=true&theme=one_dark_pro&include_all_commits=true&count_private=true"/>
     <img height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anacristinaneves&layout=compact&langs_count=7&theme=one_dark_pro"/>
